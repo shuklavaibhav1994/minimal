@@ -43,7 +43,7 @@ This project deals with the drinking water, waste water, sewage water in UK whic
 <ul>
   <li>Awarded for top performer in Wipro.</li>
   <li>Rewarded for Extra Mile in Wipro.</li>
-
+</ul>
 ---
 ### Education
 
