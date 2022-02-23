@@ -69,11 +69,11 @@ This project deals with the drinking water, waste water, sewage water in UK whic
 ---
 ### Personal
 
-Date of birth: 04th July, 1994</br>
-Interests: Cooking, Travelling, Running</br>
-Location: Bracknell, Uniteg Kingdom</br>
-Email: shuklavaibhav1994@gmail.com</br>
-Contact Number: +44 7448005673
+<p><strong>Date of birth:</strong> 04 <sup>th</sup> July, 1994 <br>
+  <strong>Interests:</strong> Cooking, Travelling<br>
+  <strong>Location:</strong> Bracknell, Uniteg Kingdom<br>
+  <strong>Email:</strong> shuklavaibhav1994@gmail.com<br>
+  <strong>Contact Number:</strong> +44 7448005673</p>
   
 ---
 
