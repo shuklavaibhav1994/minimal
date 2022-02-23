@@ -1,6 +1,13 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Vaibhav Shukla </p>
+logo: /assets/img/Profile.jpg
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vaibhav-shukla-9010a095">LinkedIn</a> |
+  <a href="https://github.com/shuklavaibhav1994/">GitHub</a>
+  
+  <br>   
+  I am working as a development lead in Wipro Technologies from more than 6 years. I also manage the role of Analysi Programmer at client location.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
