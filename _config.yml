@@ -2,12 +2,14 @@ title: <p align="center"> Vaibhav Shukla </p>
 logo: /assets/img/Profile.jpg
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://shuklavaibhav1994.github.io/profile/">Resume</a> |
   <a href="https://www.linkedin.com/in/vaibhav-shukla-9010a095">LinkedIn</a> |
   <a href="https://github.com/shuklavaibhav1994/">GitHub</a>
-  
-  <br>   
+  </p>
+  <br>
+  <p>
   I am working as a development lead in Wipro Technologies from more than 6 years. I also manage the role of Analysi Programmer at client location.
   <br>
+   Pursuing Post Graduation Diploma in Machine Learning & AI from IIIT Bangalore.
   </p>
 theme: jekyll-theme-minimal
